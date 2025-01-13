@@ -2,7 +2,7 @@
 # 任务一：半月集分类
 
 分类前半月集数据如图所示：
-![image](images/image-20250113094644216.png)
+![image](./pictures/half_moon_undivided.png)
 
 分类后结果：
 
