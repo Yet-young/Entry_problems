@@ -22,15 +22,15 @@
 
 分别采用lenet、vgg、resnet-18以及vit测试其在mnist数据集上的准确度，训练过程对比图如下所示：
 
-![image-20250113101619441](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113101619441.png)
+![image](./pictures/legend.png)
 
-![image-20250113101532393](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113101532393.png)
+![image](./pictures/mnist_pytorch_accuracy.png)
 
-![image-20250113101701675](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113101701675.png)
+![image](./pictures/mnist_pytorch_loss.png)
 
 vit结果如下所示：
 
-![image-20250113103609267](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113103609267.png)
+![image](./pictures/mnist_vit.png)
 
 测试集测试结果：
 
@@ -45,15 +45,15 @@ vit结果如下所示：
 
 首先将Annotations中的图像标注转化为模型可处理的迭代器，再分别测试任务三中的四种模型在VOC上的准确度，下面是训练过程中对比图：
 
-![image-20250113104957391](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113104957391.png)
+![image](./pictures/legend.png)
 
-![image-20250113105012202](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113105012202.png)
+![image](./pictures/voc_accuracy.png)
 
-![image-20250113105030757](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113105030757.png)
+![image](./pictures/voc_loss.png)
 
 vit结果如下所示：
 
-![image-20250113105603257](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113105603257.png)
+![image](./pictures/voc_vit.png)
 
 测试集测试结果：
 
