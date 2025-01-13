@@ -6,17 +6,17 @@
 
 分类后结果：
 
-​	![](D:\jupyter\Entry_problems\Half_moon\half_moon_boundary.png)
+​	![image](./pictures/half_moon_boundary.png)
 
 # 任务二：基于numpy的mnist图像分类
 
 训练过程中准确率与损失函数图像：
 
-![image-20250113094644216](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113094644216.png)
+![image](./pictures/mnist_np.png)
 
 测试集测试结果：
 
-![image-20250113094741629](C:\Users\Yet Young\AppData\Roaming\Typora\typora-user-images\image-20250113094741629.png)
+![image](./pictures/mnist_np_accuracy.png)
 
 # 任务三：基于pytorch的mnist图像分类
 
