@@ -41,25 +41,4 @@ vit结果如下所示：
 |    VGG    | 98.7%  |
 |    VIT    | 97.67% |
 
-# 任务四：Tiny-VOC图像分类
 
-首先将Annotations中的图像标注转化为模型可处理的迭代器，再分别测试任务三中的四种模型在VOC上的准确度，下面是训练过程中对比图：
-
-![image](./pictures/legend.png)
-
-![image](./pictures/voc_accuracy.png)
-
-![image](./pictures/voc_loss.png)
-
-vit结果如下所示：
-
-![image](./pictures/voc_vit.png)
-
-测试集测试结果：
-
-|   模型    | 准确率 |
-| :-------: | :----: |
-|   lenet   |  96%   |
-| resnet-18 | 97.9%  |
-|    VGG    | 98.1%  |
-|    VIT    | 97.28% |
